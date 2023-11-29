@@ -11,9 +11,9 @@ Developing high-performance applications by writing testable, reusable, and effi
 
 ## 💼 Skills
 
-![node](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
-![Express](https://img.shields.io/badge/ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=green)
-![mongo](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
+![node](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=green&color=black)
+![Express](https://img.shields.io/badge/ExpressJs-informational?style=flat&logo=Express&logoColor=black&color=white)
+![mongo](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=00ea63&color=001e2b)
 ![mongo](https://img.shields.io/badge/React-grey?logo=react)
 <br>
 ![jwt](https://img.shields.io/badge/jwt-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=black)
