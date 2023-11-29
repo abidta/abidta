@@ -14,6 +14,7 @@ Developing high-performance applications by writing testable, reusable, and effi
 ![node](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=green)
 ![Express](https://img.shields.io/badge/ExpressJs-informational?style=flat&logo=Express&logoColor=white&color=green)
 ![mongo](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
+![mongo](https://img.shields.io/badge/React-white?logo=react)
 <br>
 ![jwt](https://img.shields.io/badge/jwt-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=black)
 ![passport](https://img.shields.io/badge/Passport.js-informational?style=flat&logo=passport&color=black)
