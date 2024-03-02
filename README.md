@@ -20,4 +20,4 @@ Developing high-performance applications by writing testable, reusable, and effi
 ![passport](https://img.shields.io/badge/Passport.js-informational?style=flat&logo=passport&color=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 
-
+<img src="https://komarev.com/ghpvc/?username=abidta&label=Profile%20views&color=0e75b6&style=flat" alt="abidta" />
