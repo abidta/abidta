@@ -19,5 +19,12 @@ Developing high-performance applications by writing testable, reusable, and effi
 ![jwt](https://img.shields.io/badge/jwt-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=black)
 ![passport](https://img.shields.io/badge/Passport.js-informational?style=flat&logo=passport&color=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
-
+<br>
+![prisma](https://img.shields.io/badge/Prisma-informational?style=flat&logo=prisma&color=001e2b)
+![mysql](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
+![postgrsql](https://img.shields.io/badge/Postgre_SQL-informational?style=flat&logo=postgresql&color=white)
+![redis](https://img.shields.io/badge/redis-informational?style=flat&logo=redis&color=red&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker)
+<br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=abidta&label=Profile%20views&color=0e75b6&style=flat" alt="abidta" />
