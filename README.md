@@ -37,5 +37,8 @@ Developing high-performance applications by writing testable, reusable, and effi
 ![Elastic](https://img.shields.io/badge/Elastic%20Stack-informational?style=flat&logo=elasticstack&logoColor=%23005571&color=white)
 
 <br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=abidta&label=Profile%20views&color=0e75b6&style=flat" alt="abidta" />
