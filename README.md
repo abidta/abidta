@@ -40,7 +40,7 @@ Developing high-performance applications by writing testable, reusable, and effi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 25 January 2025
+From: 10 January 2024 - To: 26 January 2025
 
 Total Time: 694 hrs 45 mins
 
