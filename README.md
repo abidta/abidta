@@ -40,14 +40,14 @@ Developing high-performance applications by writing testable, reusable, and effi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 30 January 2025
+From: 10 January 2024 - To: 31 January 2025
 
-Total Time: 708 hrs 46 mins
+Total Time: 711 hrs 20 mins
 
-TypeScript                 380 hrs 31 mins >>>>>>>>>>>>>------------   53.69 %
-JavaScript                 234 hrs 50 mins >>>>>>>>-----------------   33.13 %
-Prisma                     14 hrs 40 mins  >------------------------   02.07 %
-Bash                       11 hrs 15 mins  -------------------------   01.59 %
+TypeScript                 380 hrs 31 mins >>>>>>>>>>>>>------------   53.49 %
+JavaScript                 237 hrs 24 mins >>>>>>>>-----------------   33.37 %
+Prisma                     14 hrs 40 mins  >------------------------   02.06 %
+Bash                       11 hrs 15 mins  -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
