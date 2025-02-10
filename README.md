@@ -9,6 +9,15 @@ Ensuring optimal performance of the central database and responsiveness to front
 Collaborating with front-end developers on the integration of elements.
 Developing high-performance applications by writing testable, reusable, and efficient code.
 
+<hr>
+
+- 🔭 I’m currently working on **Backend based projects**
+
+- 🌱 I’m currently learning **Rust**
+
+- 📫 How to reach me **sainulabidofficial@gmail.com**
+<hr>
+
 ## 💼 Skills
 
 ![node](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=Node.js&logoColor=green&color=black)
@@ -35,6 +44,7 @@ Developing high-performance applications by writing testable, reusable, and effi
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=%23FF6600&color=black)
 ![gRPC](https://img.shields.io/badge/gRPC-blue?style=flat)
 ![Elastic](https://img.shields.io/badge/Elastic%20Stack-informational?style=flat&logo=elasticstack&logoColor=%23005571&color=white)
+
 
 <br>
 <!--START_SECTION:waka-->
