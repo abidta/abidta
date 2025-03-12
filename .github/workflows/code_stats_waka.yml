@@ -21,5 +21,8 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true
-          LANG_COUNT: 6
+          LANG_COUNT: 8
+          CODE_LANG: rust
+          AUTHOR_NAME: Sainul Abid # optional
+          AUTHOR_EMAIL: sainulabidofficial@gmail.com
           IGNORED_LANGUAGES: Binary YAML JSON TOML Docker
