@@ -50,7 +50,7 @@ Developing high-performance applications by writing testable, reusable, and effi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 January 2024 - To: 03 June 2025
+From: 10 January 2024 - To: 04 June 2025
 
 Total Time: 959 hrs 41 mins
 
