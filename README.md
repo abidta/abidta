@@ -50,15 +50,15 @@ Developing high-performance applications by writing testable, reusable, and effi
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 January 2024 - To: 13 June 2025
+From: 10 January 2024 - To: 14 June 2025
 
-Total Time: 974 hrs 58 mins
+Total Time: 976 hrs 30 mins
 
-JavaScript                 462 hrs 55 mins >>>>>>>>>>>>-------------   47.48 %
-TypeScript                 386 hrs 33 mins >>>>>>>>>>---------------   39.65 %
+JavaScript                 464 hrs 27 mins >>>>>>>>>>>>-------------   47.56 %
+TypeScript                 386 hrs 34 mins >>>>>>>>>>---------------   39.59 %
 Protocol Buffer            17 hrs 27 mins  -------------------------   01.79 %
 Prisma                     14 hrs 40 mins  -------------------------   01.50 %
-Bash                       13 hrs 1 min    -------------------------   01.34 %
+Bash                       13 hrs 1 min    -------------------------   01.33 %
 Other                      7 hrs 44 mins   -------------------------   00.79 %
 ```
 
