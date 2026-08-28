@@ -25,4 +25,4 @@ jobs:
           CODE_LANG: rust
           AUTHOR_NAME: Sainul Abid # optional
           AUTHOR_EMAIL: sainulabidofficial@gmail.com
-          IGNORED_LANGUAGES: Binary YAML JSON TOML Docker
+          IGNORED_LANGUAGES: Binary YAML JSON TOML Docker Markdown
